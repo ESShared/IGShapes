@@ -7,6 +7,7 @@ namespace ShapesBasics
 {
     public class Square
     {
+        // The length of the square
         public int Length;
 
         public int CalculateArea()

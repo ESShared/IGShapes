@@ -11,6 +11,7 @@ namespace ShapesBasics
 
         public int CalculateArea()
         {
+			// Return the area calculated
             return Length * Length;
         }
     }

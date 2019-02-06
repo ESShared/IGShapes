@@ -12,7 +12,7 @@ namespace ShapesBasics
 
         public int CalculateArea()
         {
-			// Return the area calculated for a square
+			// Return the area calculated for a square, which is just the length multiplied by itself.
             return Length * Length;
         }
     }
